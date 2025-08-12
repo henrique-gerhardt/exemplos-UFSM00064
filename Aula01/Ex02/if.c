@@ -3,7 +3,7 @@
 int main() {
     float temperatura = 35.0;
 
-    if (temperatura > 30.0f) {
+    if (temperatura > 30.0) {
         printf("Está muito quente!\n");
     }
 
