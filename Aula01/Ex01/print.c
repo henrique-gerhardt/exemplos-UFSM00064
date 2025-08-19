@@ -7,6 +7,6 @@ int main() {
     printf("A idade é: %d anos.\n", idade);
     printf("A temperatura é: %f graus.\n", temperatura);
     printf("A temperatura formatada é: %.2f graus.\n", temperatura);
-    
+
     return 0;
 }
